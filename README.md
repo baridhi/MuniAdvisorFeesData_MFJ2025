@@ -12,7 +12,7 @@ If you find this work/data useful, please cite the following:
   journal={Municipal Finance Journal},
   volume={45},
   number={2-3},
-  pages={000--000},
+  pages={121--155},
   year={2024},
   publisher={The University of Chicago Press Chicago, IL}
 }
